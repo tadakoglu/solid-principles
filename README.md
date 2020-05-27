@@ -11,6 +11,6 @@
 * **Dependency inversion principle** - High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend upon details.
 
 
-# WITH DIFFERENT WORDS
+# S.O.L.I.D CHEATSHEET
 
 ![alt text](https://github.com/tadakoglu/solid-principles/blob/master/S.O.L.I.D.png)
