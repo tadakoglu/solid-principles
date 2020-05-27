@@ -14,3 +14,5 @@
 # S.O.L.I.D CHEATSHEET
 
 ![alt text](https://github.com/tadakoglu/solid-principles/blob/master/S.O.L.I.D.png)
+
+![alt text](https://github.com/tadakoglu/solid-principles/blob/master/LiskovSubstitutionPrinciple.png)
